@@ -122,7 +122,3 @@ No permission is granted to copy, modify, distribute, or use this project commer
 * Multi-source document ingestion (Notion, Slack, Confluence)
 * Streaming responses
 * Access control for private knowledge bases
-
-## Author
-
-Developed as a practical implementation of a modern RAG-based AI system, showcasing workflow automation, vector search, and production-style architecture.
